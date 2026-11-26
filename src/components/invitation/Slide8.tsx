@@ -8,7 +8,7 @@ const BG_IMAGE =
 
 // Couple photo for the closing capsule.
 const COUPLE_PHOTO =
-  "https://imglinkv-3.vercel.app/api/images/cmtve6eqk9rxkoeek/file";
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0231.JPG";
 
 const CLOSING_DOA =
   "Merupakan suatu kebahagiaan dan kehormatan bagi kami, apabila Bapak/Ibu/Saudara/i, berkenan hadir dan memberikan do’a restu kepada kami.";
