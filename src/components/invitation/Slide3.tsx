@@ -9,9 +9,9 @@ const BG_IMAGE =
 
 // Couple photos — reuse the same capsule photos from slide 2.
 const BRIDE_PHOTO =
-  "https://imglinkv-3.vercel.app/api/images/cmtvmc47l3y66ch3r/file";
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0146.JPG";
 const GROOM_PHOTO =
-  "https://imglinkv-3.vercel.app/api/images/cmtvmb39nk30zp56h/file";
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0150.JPG";
 
 // The "&" decorative separator between the bride and groom blocks.
 const AMPERSAND_IMAGE =
