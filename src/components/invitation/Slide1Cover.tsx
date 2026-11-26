@@ -4,12 +4,11 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { Mail } from "lucide-react";
 import { useInvitation } from "@/lib/invitation-store";
-import Birds from "@/components/invitation/Birds";
 
 const BG_IMAGE =
   "https://the.invisimple.id/wp-content/uploads/2026/03/TEMA-2-COVER-BUKA-UNDANGAN-.jpg";
 const COUPLE_PHOTO =
-  "https://imglinkv-3.vercel.app/api/images/cmtve6fsli5003xyd/file";
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0192.JPG";
 
 // Staggered entrance animation
 const container = {
