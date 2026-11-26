@@ -90,8 +90,6 @@ export default function Slide1Cover() {
         {/* Single centered column: The Wedding of → foto → nama → recipient block → button.
             justify-center biar grup ter-center vertikal (nggak nempel ke atas). */}
         <div className="relative flex w-full flex-1 flex-col items-center justify-center px-6 pt-4 pb-3">
-          {/* Flock of 6 birds flying left↔right across the upper area */}
-          <Birds />
           {/* Eyebrow — wedding script calligraphy, sits above the photo.
               Dikecilin + `mb-3` (dari mb-8) biar foto naik deket tulisan. */}
           <motion.p
