@@ -9,7 +9,7 @@ import { useInvitation } from "@/lib/invitation-store";
  * Lagu latar undangan. File di-host eksternal.
  * Ganti URL di bawah untuk mengganti lagu.
  */
-const MUSIC_URL = "https://ifalnaelil.vercel.app/bgmusic.mp3";
+const MUSIC_URL = "https://midnight.memoraa-invitation.my.id/bgmusic.mp3";
 
 /**
  * MusicPlayer — invisible audio controller + floating toggle button.
