@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Meilany & Fadhil — The Wedding",
     description: "Minggu, 06 Desember 2026 — Undangan pernikahan Meilany & Fadhil",
-    images: ["https://imglinkv-3.vercel.app/api/images/cmtve6ge9aswqzkci/file"],
+    images: ["https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0295.JPG?tr=w-1200,h-630,cm-fill,fo-center,q-80"],
   },
 };
 
