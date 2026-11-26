@@ -10,8 +10,8 @@ const BG_IMAGE =
 
 // Couple photos that rotate every 3 seconds (loop back-and-forth).
 const PHOTOS = [
-  "https://imglinkv-3.vercel.app/api/images/cmtve6ayyv53zdqqx/file",
-  "https://imglinkv-3.vercel.app/api/images/cmtve6eqk9rxkoeek/file",
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0265.JPG",
+  "https://ik.imagekit.io/au8q7zdvt/FADHIL%20-%20MEILANY/DSC_0260.JPG",
 ];
 
 const ROTATE_INTERVAL_MS = 3000;
